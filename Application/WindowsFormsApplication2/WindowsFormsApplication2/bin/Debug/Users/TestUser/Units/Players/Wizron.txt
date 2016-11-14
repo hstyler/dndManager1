@@ -1,0 +1,32 @@
+Wizron
+-----Description-----
+Example player
+-----Attributes-----
+Strength: 13
+Dexterity: 12
+Constitution: 13
+Intelligence: 17
+Charisma: 15
+Wisdom: 19
+Health: 100
+Level: 5
+AC: 12
+-----Attacks-----
+~Quarterstaff
+Damage Count: 1
+Damage Die: 4
+Type: Bludgeoning
+Modifier: Strength
+-----Spells-----
+~Prismatic Ray
+Damage Count: 2
+Damage Die: 6
+Type: Radiant
+Slot: 1
+Description: 
+~Scorching Ray
+Damage Count: 3
+Damage Die: 4
+Type: Fire
+Slot: 0
+Description: 

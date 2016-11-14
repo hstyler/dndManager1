@@ -1,0 +1,26 @@
+Ayo
+-----Description-----
+
+-----Attributes-----
+Strength: 0
+Dexterity: 0
+Constitution: 0
+Intelligence: 0
+Charisma: 0
+Wisdom: 0
+Health: 1
+Level: 1
+AC: 0
+-----Attacks-----
+~a
+Damage Count: 1
+Damage Die: 4
+Type: Slashing
+Modifier: Strength
+-----Spells-----
+~b
+Damage Count: 0
+Damage Die: 4
+Type: (None)
+Slot: 0
+Description: 

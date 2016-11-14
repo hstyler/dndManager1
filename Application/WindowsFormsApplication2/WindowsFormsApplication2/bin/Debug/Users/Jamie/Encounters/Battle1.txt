@@ -1,0 +1,74 @@
+15 - Kobold (e)
+4 - Bard (p)
+
+Kobold - Defeated!
+
+Bard - 52 health
+
+15 - Kobold (e)
+4 - Bard (p)
+
+1
+
+(None)
+15 - Kobold (e)
+4 - Bard (p)
+
+1
+
+Bard
+
+15
+17
+13
+18
+11
+10
+55
+5
+17
+Crossbow
+2
+4
+Piercing
+Dexterity
+Dagger
+1
+4
+Piercing
+Dexterity
+SPSTART
+Scorching Ray
+3
+6
+Fire
+0
+Deals 1d6 fire damage to 3 targets of your choice
+-
+ESTART
+Kobold
+
+12
+13
+13
+14
+12
+11
+15
+1
+5
+Shortsword
+2
+4
+Slashing
+Strength
+SPSTART
+-
+
+1
+0
+True
+True
+True
+0
+0

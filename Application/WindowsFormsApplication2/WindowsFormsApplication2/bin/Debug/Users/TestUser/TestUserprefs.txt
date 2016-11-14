@@ -1,0 +1,3 @@
+AttackNotifications = True
+AutoRoll = True
+Instructions = True

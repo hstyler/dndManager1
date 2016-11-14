@@ -1,0 +1,30 @@
+geoff
+-----Description-----
+
+-----Attributes-----
+Strength: 1
+Dexterity: 99
+Constitution: 7
+Intelligence: 100
+Charisma: 57
+Wisdom: 100
+Health: 55
+Level: 1
+AC: 0
+-----Attacks-----
+~chaucer
+Damage Count: 1
+Damage Die: 4
+Type: Slashing
+Modifier: Strength
+~personal goeff
+Damage Count: 10
+Damage Die: 100
+Type: Bludgeoning
+Modifier: Dexterity
+~nutrient ian
+Damage Count: 5
+Damage Die: 12
+Type: Piercing
+Modifier: Strength
+-----Spells-----

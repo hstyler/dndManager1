@@ -1,0 +1,138 @@
+23 - TestUnit (e)
+23 - TestUnit (1) (e)
+9 - Wizron II (p)
+8 - Wizron (p)
+
+TestUnit - Defeated!
+TestUnit (1) - Defeated!
+
+Wizron - 100 health
+Wizron II - 1 health
+
+23 - TestUnit (e)
+8 - Wizron (p)
+9 - Wizron II (p)
+23 - TestUnit (1) (e)
+
+2
+
+(Multiple)
+(None)
+23 - TestUnit (e)
+8 - Wizron (p)
+9 - Wizron II (p)
+23 - TestUnit (1) (e)
+
+5
+
+Wizron
+Example player
+13
+12
+13
+17
+15
+19
+100
+5
+12
+Quarterstaff
+1
+4
+Bludgeoning
+Strength
+SPSTART
+Prismatic Ray
+2
+6
+Radiant
+1
+
+Scorching Ray
+3
+4
+Fire
+0
+
+-
+Wizron II
+
+0
+0
+0
+0
+0
+0
+1
+1
+0
+atk
+1
+4
+Slashing
+Strength
+SPSTART
+Command
+0
+4
+(None)
+1
+The user speaks out a single, simple word of command. The target must make a wisdom saving throw, or follow this command.
+-
+ESTART
+TestUnit
+TestDesc
+10
+13
+5
+16
+17
+20
+12
+19
+12
+TestAttack
+2
+6
+Slashing
+Strength
+SPSTART
+TestSpell
+2
+6
+Lightning
+3
+TestDesc
+-
+TestUnit
+TestDesc
+10
+13
+5
+16
+17
+20
+12
+19
+12
+TestAttack
+2
+6
+Slashing
+Strength
+SPSTART
+TestSpell
+2
+6
+Lightning
+3
+TestDesc
+-
+
+2
+1
+True
+True
+False
+1
+1

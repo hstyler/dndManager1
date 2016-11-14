@@ -1,0 +1,20 @@
+Kobold
+-----Description-----
+
+-----Attributes-----
+Strength: 12
+Dexterity: 13
+Constitution: 13
+Intelligence: 14
+Charisma: 12
+Wisdom: 11
+Health: 15
+Level: 1
+AC: 5
+-----Attacks-----
+~Shortsword
+Damage Count: 2
+Damage Die: 4
+Type: Slashing
+Modifier: Strength
+-----Spells-----

@@ -1,0 +1,26 @@
+tredda
+-----Description-----
+Tredda is a geoff what goeffs.
+-----Attributes-----
+Strength: 23
+Dexterity: 4
+Constitution: 100
+Intelligence: 5
+Charisma: 10
+Wisdom: 100
+Health: 20
+Level: 5
+AC: 12
+-----Attacks-----
+~Tredda Smash
+Damage Count: 4
+Damage Die: 6
+Type: Bludgeoning
+Modifier: Strength
+-----Spells-----
+~Tredda's Divine Influence
+Damage Count: 10
+Damage Die: 20
+Type: Radiant
+Slot: 9
+Description: 

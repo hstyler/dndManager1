@@ -1,0 +1,103 @@
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csprojResolveAssemblyReference.cache
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUnit.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogIn.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Modifiers.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Preferences.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UnitInfo.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csproj.GenerateResource.Cache
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.Unit_Entries.EnterValue.resources
+H:\`Main Folder\SF\Computing\Coursework\Documents\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Classes.LoadFile.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csprojResolveAssemblyReference.cache
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Classes.LoadFile.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUnit.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogIn.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Modifiers.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Preferences.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.Unit_Entries.EnterValue.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UnitInfo.resources
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csproj.GenerateResource.Cache
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csprojResolveAssemblyReference.cache
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Classes.LoadFile.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUnit.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogIn.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Modifiers.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Preferences.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.Unit_Entries.EnterValue.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UnitInfo.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csproj.GenerateResource.Cache
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csprojResolveAssemblyReference.cache
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Classes.LoadFile.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUnit.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogIn.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Modifiers.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Preferences.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.Unit_Entries.EnterValue.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UnitInfo.resources
+H:\`Main Folder\SF\Computing\Coursework\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csproj.GenerateResource.Cache
+J:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.RollDice.resources
+D:\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.RollDice.resources
+H:\`Main Folder\SF\Computing\Coursework\------- FINAL PROGRAM --------\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\`Main Folder\SF\Computing\Coursework\------- FINAL PROGRAM --------\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\`Main Folder\SF\Computing\Coursework\------- FINAL PROGRAM --------\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csprojResolveAssemblyReference.cache
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.RollDice.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Classes.LoadFile.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUnit.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogIn.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Modifiers.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Preferences.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.Unit_Entries.EnterValue.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UnitInfo.resources
+H:\`Main Folder\SF\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csproj.GenerateResource.Cache
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csprojResolveAssemblyReference.cache
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.RollDice.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Classes.LoadFile.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AddUnit.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogIn.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Modifiers.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Preferences.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Project_Forms.Unit_Entries.EnterValue.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UnitInfo.resources
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DnDEncounterManager.csproj.GenerateResource.Cache
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+J:\School Folder\'MAIN FOLDER'\Computing\Coursework\`FINAL PROGRAM\Application\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

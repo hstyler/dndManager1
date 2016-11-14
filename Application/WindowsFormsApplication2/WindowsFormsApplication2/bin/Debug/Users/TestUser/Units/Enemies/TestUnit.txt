@@ -1,0 +1,26 @@
+TestUnit
+-----Description-----
+TestDesc
+-----Attributes-----
+Strength: 10
+Dexterity: 13
+Constitution: 5
+Intelligence: 16
+Charisma: 17
+Wisdom: 20
+AC : 12
+Health: 19
+Level: 12
+-----Attacks-----
+~TestAttack
+Damage Count: 2
+Damage Die: 6
+Type: Slashing
+Modifier: Strength
+-----Spells-----
+~TestSpell
+Damage Count: 2
+Damage Die: 6
+Type: Lightning
+Slot: 3
+Description: TestDesc
